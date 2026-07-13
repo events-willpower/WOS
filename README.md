@@ -4,7 +4,7 @@
 Sponsorship deck for **The World of Sports Summit** by Willpower, at the Formula 1
 United States Grand Prix, Austin TX (COTA) — October 22, 2026.
 
-**Live site:** [willpowerworldofsports.netlify.app/world-of-sports-2026.html](https://willpowerworldofsports.netlify.app/world-of-sports-2026.html)
+**Live site:** [https://6a5155c45952e85e4ca8ba07--willpowerworldofsports.netlify.app/world-of-sports-2026.html]
 
 ---
 
